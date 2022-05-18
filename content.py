@@ -1,1 +1,1 @@
-print("fafxl")
+print("ttamf")
