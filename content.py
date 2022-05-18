@@ -1,1 +1,1 @@
-print("ttamf")
+print("mnowh")
